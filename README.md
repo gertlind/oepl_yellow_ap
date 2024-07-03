@@ -1,3 +1,2 @@
 # oepl_yellow_ap
-[Inspired by](https://github.com/OpenEPaperLink/OpenEPaperLink/blob/master/README.md)
-[Wiki](https://github.com/jjwbruijn/OpenEPaperLink/wiki)
+[Inspired by the OpenEPaperLink project](https://github.com/OpenEPaperLink/OpenEPaperLink/blob/master/README.md)
